@@ -1,4 +1,26 @@
-# Getting Started with Create React App
+# React Weather App
+
+## Overview 
+This is a React weather app that allows users to check the current weather conditions for a given location. The app retrieves weather data from an API and displays it in a user-friendly manner
+
+## Technologies Used
+- [React](https://github.com/facebook/create-react-app): JavaScript library for building user interfaces
+- [OpenWeatherMap API](https://openweathermap.org): Used to retrieve weather data
+- [GeoDB Cities](https://rapidapi.com/wirefreethought/api/geodb-cities): Used to retrieve location data
+
+## Configuration
+
+You can configure the app by modifying the following files:
+- **src/App.js**: Customize the app 
+- **src/components/search.js**: Customize the search component
+- **src/components/current-weather.js**: Customize the current-weather component
+- **src/components/forecast.js**: Customize the forecast component
+
+
+<br>
+<br>
+<br>
+<br>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
